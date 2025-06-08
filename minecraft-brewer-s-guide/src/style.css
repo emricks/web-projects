@@ -1,0 +1,236 @@
+body{
+  background-color: rgb(180, 255, 180);
+  width: 3000px;
+}
+#effectsquestion{
+  font-size: 32px;
+  position: absolute;
+  display: block;
+  width: 300px;
+  height: 75px;
+  text-align: center;
+  margin-left: 1350px;
+  margin-right: 1350px;
+  margin-top: 50px;
+}
+#powdersquestion{
+  font-size: 32px;
+  position: absolute;
+  display: block;
+  width: 300px;
+  height: 75px;
+  text-align: center;
+  margin-left: 1350px;
+  margin-right: 1350px;
+  margin-top: 50px;
+}
+#typesquestion{
+  font-size: 32px;
+  position: absolute;
+  display: block;
+  width: 300px;
+  height: 75px;
+  text-align: center;
+  margin-left: 1350px;
+  margin-right: 1350px;
+  margin-top: 50px;
+}
+#recipe{
+  font-size: 32px;
+  position: absolute;
+  display: block;
+  width: 800px;
+  text-align: center;
+  margin-left: 1100px;
+  margin-right: 1100px;
+  margin-top: 50px;
+}
+.undo{
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  border-radius: 15px;
+  border-width: 4px;
+  border-style: groove;
+  background-color: rgb(250, 250, 250);
+  font-size: 35px;
+  font-weight: bold;
+  border-color: rgb(0, 0, 0);
+}
+.undo:hover {
+  background-color: rgb(210, 210, 210);
+}
+.effects{
+  position: absolute;
+  width: 300px;
+  height: 75px;
+  font-size: 30px;
+  display: block;
+  border-radius: 20px;
+  background-color: rgb(250, 250, 250);
+  border-style: groove;
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.powders{
+  position: absolute;
+  width: 300px;
+  height: 75px;
+  font-size: 30px;
+  display: block;
+  border-radius: 20px;
+  background-color: rgb(250, 250, 250);
+  border-style: groove;
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+.types{
+  position: absolute;
+  width: 300px;
+  height: 75px;
+  font-size: 30px;
+  display: block;
+  border-radius: 20px;
+  background-color: rgb(250, 250, 250);
+  border-style: groove;
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  font-weight: bold;
+  color: rgb(0, 0, 200)
+}
+.effects:hover{
+  background-color: rgb(210, 210, 210)
+}
+.powders:hover{
+  background-color: rgb(210, 210, 210)
+}
+.types:hover{
+  background-color: rgb(210, 210, 210)
+}
+.Desc{
+  display: none;
+}
+#speed{
+  margin-left: 250px;
+  margin-top: 50px;
+  color: rgb(0, 210, 210);
+}
+#slowness{
+  margin-left: 800px;
+  margin-top: 50px;
+  color: rgb(130, 150, 150);
+}
+#jumpboost{
+  margin-left: 1900px;
+  margin-top: 50px;
+  color: rgb(190, 220, 0);
+}
+#strength{
+  margin-left: 2450px;
+  margin-top: 50px;
+  color: rgb(210, 150, 0);
+}
+#healing{
+  margin-left: 250px;
+  margin-top: 250px;
+  color: rgb(200, 0 , 0);
+}
+#harming{
+  margin-left: 800px;
+  margin-top: 250px;
+  color: rgb(160, 100, 110);
+}
+#poison{
+  margin-left: 1350px;
+  margin-top: 250px;
+  color: rgb(80, 120, 80);
+}
+#regeneration{
+  margin-left: 1900px;
+  margin-top: 250px;
+  color: rgb(180, 0, 90);
+}
+#fireresistance{
+  margin-left: 2450px;
+  margin-top: 250px;
+  color: rgb(210, 120, 0);
+}
+#waterbreathing{
+  margin-left: 250px;
+  margin-top: 450px;
+  color: rgb(0, 200, 150);
+}
+#nightvision{
+  margin-left: 800px;
+  margin-top: 450px;
+  color: rgb(155, 210, 0);
+}
+#invisibility{
+  margin-left: 1350px;
+  margin-top: 450px;
+  color: rgb(128, 128, 128);
+}
+#turtlemaster{
+  margin-left: 1900px;
+  margin-top: 450px;
+  color: rgb(128, 128, 180);
+}
+#slowfalling{
+  margin-left: 2450px;
+  margin-top: 450px;
+  color: rgb(220, 200, 180)
+}
+#weakness{
+  margin-left: 250px;
+  margin-top: 650px;
+  color: rgb(30, 50, 30);
+}
+#infested{
+  margin-left: 800px;
+  margin-top: 650px;
+  color: rgb(100, 130, 100);
+}
+#oozing{
+  margin-left: 1350px;
+  margin-top: 650px;
+  color: rgb(100, 220, 0);
+}
+#weaving{
+  margin-left: 1900px;
+  margin-top: 650px;
+  color: rgb(60, 40, 20);
+}
+#windcharged{
+  margin-left: 2450px;
+  margin-top: 650px;
+  color: rgb(165, 180, 210);
+}
+#redstone{
+  margin-left: 525px;
+  margin-top: 450px;
+  color: rgb(200, 0, 0);
+}
+#stupidorbroke{
+  margin-left: 1350px;
+  margin-top: 450px;
+  color: rgb(55, 55, 55);
+}
+#glowstone{
+  margin-left: 2175px;
+  margin-top: 450px;
+  color: rgb(255, 180, 0);
+}
+#normal{
+  margin-left: 525px;
+  margin-top: 450px;
+}
+#splash{
+  margin-left: 1350px;
+  margin-top: 450px;
+}
+#lingering{
+  margin-left: 2175px;
+  margin-top: 450px;
+}
